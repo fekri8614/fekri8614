@@ -4,10 +4,10 @@
 ###
 ##### 🐱‍🚀 I'm **Mohammad-Reza Fekri**
 ##### 👨‍💻 I'm currently learning ***Android Native*** 
-##### 👯‍♂️ I'm looking to collaborate on Professional Companies to improve myself
+##### 👯‍♂️ I'm looking to collaborate with Professional Companies to improve myself
   
 ##
-#### I'm a *****NullPointer Exception***** 😈
+####  *****Imagine***** ✨
 
 ##
 
