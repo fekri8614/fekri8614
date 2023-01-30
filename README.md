@@ -3,5 +3,5 @@
 
 - 🌱 I’m currently learning Android Native
 - 👯 I’m looking to collaborate on Professional Companies
-- 💬 Let's talk about programming
+- ✨ I have done projects with 
 
