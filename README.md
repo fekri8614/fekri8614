@@ -7,11 +7,11 @@
 ##### 👯‍♂️ I'm looking to collaborate with Professional Companies to improve myself
   
 ##
-####  *****Imagine***** ✨
+####  *****Don't make change if it works...*****
 
 ##
 
-### Me on Social media
+### Me on Social Media
 
 
 
