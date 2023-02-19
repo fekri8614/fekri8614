@@ -7,7 +7,7 @@
 ##### 👯‍♂️ I'm looking to collaborate with Professional Companies to improve myself
   
 ##
-####  *****Don't make change if it works...😉*****
+####  *****Don't make change if it works...😎*****
 
 ##
 
