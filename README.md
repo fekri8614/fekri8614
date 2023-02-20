@@ -1,9 +1,9 @@
 
 ### Hi there 👋
- - I'm currently learning Android Native
- - I'm looking to collaborate on Profession Teams
- - Ask me about programming
- - How to reach me: [Linked-in](https://www.linkedin.com/in/mohammad-reza-fekri/)
+ - 🌱 I'm currently learning Android Native
+ - 👯 I'm looking to collaborate on Profession Teams
+ - 💬 Ask me about programming
+ - 📫 How to reach me: [Linked-in](https://www.linkedin.com/in/mohammad-reza-fekri/)
 
  ---
 
