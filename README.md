@@ -1,7 +1,7 @@
 
 ### Hi there 👋
  - 🌱 I'm currently learning Android Native
- - 👯 I'm intereste at having experience about Android Development
+ - 👯 I'm interested at having experience about Android Development
  - 💬 Let's talk about Android!
  - 📫 How to reach me: [Linked-in](https://www.linkedin.com/in/mohammad-reza-fekri/)
 
