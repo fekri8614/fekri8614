@@ -2,7 +2,7 @@
 ### Hi there 👋
  - 🌱 I'm currently learning Android Native
  - 👯 I'm interested at having experience about Android Development
- - 💬 Let's talk about Android!
+ - 💬 Let's talk about programming!
  - 📫 How to reach me: [Linked-in](https://www.linkedin.com/in/mohammad-reza-fekri/)
 
  ---
