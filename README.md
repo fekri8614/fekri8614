@@ -3,7 +3,7 @@
  - 🌱 I'm currently learning Android Native
  - 👯 I'm interested at having experience about Android Development
  - 💬 Let's talk about programming!
- - 📫 How to reach me: [Linked-in](https://www.linkedin.com/in/mohammad-reza-fekri/)
+ - 📫 How to reach me: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="fekri86114" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/fekri86114?trk=profile-badge">Mohammad Reza Fekri</a></div>
 
  ---
 
@@ -19,3 +19,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fekri86114&show_icons=false" />
 </picture>
 
+
+
+              
