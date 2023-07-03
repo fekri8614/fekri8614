@@ -3,7 +3,8 @@
  - 🌱 I'm currently learning Android Native
  - 👯 I'm interested at having experience about Android Development
  - 💬 Let's talk about programming!
- - 📫 How to reach me: <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+ - 📫 How to reach me: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fekri86114" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/fekri86114?trk=profile-badge">Mohammadreza Fekri</a></div>
+              
 
  ---
 
