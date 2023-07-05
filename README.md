@@ -3,10 +3,8 @@
  - 🌱 I'm currently learning Android Native
  - 👯 I'm interested at having experience about Android Development
  - 💬 Let's talk about programming!
- - 📫 How to reach me:
 
-[![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fekri86114)
-              
+[![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fekri86114)      
 
  ---
 
@@ -21,7 +19,5 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=fekri86114&show_icons=false" />
 </picture>
-
-
 
               
