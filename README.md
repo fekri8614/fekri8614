@@ -4,6 +4,8 @@
  - 👯 I'm interested in having experience with Android Development
  - 💬 Let's talk about programming!
 
+    [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fekri8614)
+
  ---
 ### GitHub Stats
 <picture>
@@ -18,6 +20,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fekri8614&show_icons=false" />
 </picture>
 
-### Wakatime Stats
-<img width="500" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=fekri8614&theme=dark&range=last_7_days&langs_count=4&text_color=fff&title_color=3fb950&hide_title=true&hide=Other&border_color=5b5c5b&line_height=33" />
+
 
