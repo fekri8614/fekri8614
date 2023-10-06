@@ -1,7 +1,7 @@
 
 ### Hi there 👋
- - 🌱 I'm currently learning Android Native & Flutter
- - 👯 I  love startups, especially when there's teamwork involved
+ - 🌱 I'm currently learning Flutter
+ - 👯 I love teamwork!
  - 📪 Connect me:
 
     [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fekri8614)
